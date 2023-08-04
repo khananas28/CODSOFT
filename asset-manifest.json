@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CODSOFT/static/css/main.42300d1c.css",
+    "main.js": "/CODSOFT/static/js/main.1605cc1e.js",
+    "static/media/about-background-image.png": "/CODSOFT/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/2.png": "/CODSOFT/static/media/2.379134fdbf5d489906b5.png",
+    "static/media/1.png": "/CODSOFT/static/media/1.0deca455aae664d75c83.png",
+    "static/media/Logo.svg": "/CODSOFT/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/CODSOFT/index.html",
+    "main.42300d1c.css.map": "/CODSOFT/static/css/main.42300d1c.css.map",
+    "main.1605cc1e.js.map": "/CODSOFT/static/js/main.1605cc1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.1605cc1e.js"
+  ]
+}
